@@ -1,0 +1,4 @@
+credentials.txt
+.vscode
+__pycache__
+*.csv
